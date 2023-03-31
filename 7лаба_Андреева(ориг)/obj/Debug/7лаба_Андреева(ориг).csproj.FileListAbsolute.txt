@@ -1,0 +1,12 @@
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\bin\Debug\7лаба_Андреева(ориг).exe.config
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\bin\Debug\7лаба_Андреева(ориг).exe
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\bin\Debug\7лаба_Андреева(ориг).pdb
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).csproj.SuggestedBindingRedirects.cache
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\_7лаба_Андреева_ориг_.Form1.resources
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\_7лаба_Андреева_ориг_.Properties.Resources.resources
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).exe
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\7лаба_Андреева(ориг).pdb
+C:\Users\Макс\Desktop\Проекты\7лаба_Андреева(ориг)\7лаба_Андреева(ориг)\obj\Debug\_7лаба_Андреева_ориг_.Form2.resources
